@@ -4,7 +4,7 @@ Perkenalkan nama saya **Komang Andika Putra**.<br>
  
 Saya saat ini adalah seorang mahasiswa di **Universitas Udayana**.<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/komang-andika-putra-b5915a286/))ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/komang-andika-putra-b5915a286/)ku ya.
  
 ### Github Statistic
 <p align="left">
